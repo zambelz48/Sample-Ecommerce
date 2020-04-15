@@ -1,0 +1,10 @@
+//
+//  Base.xcconfig
+//  Sample Ecommerce
+//
+//  Created by Nanda Julianda Akbar on 14/04/20.
+//  Copyright © 2020 Nanda. All rights reserved.
+//
+
+BASE_APP_NAME=Sample Ecommerce
+BASE_BUNDLE_ID=com.nanda.SampleEcommerce
